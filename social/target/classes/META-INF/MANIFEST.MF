@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: saikrishna
+Class-Path: libs/scala-library-2.11.8.jar libs/mongo-spark-connector_2
+ .11-2.3.0.jar libs/mongo-java-driver-3.8.0.jar
+Build-Jdk: 1.8.0_144
+Created-By: Maven Integration for Eclipse
+Main-Class: social.social.SocialRecom
+
